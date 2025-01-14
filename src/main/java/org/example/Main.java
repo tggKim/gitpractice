@@ -7,5 +7,6 @@ public class Main {
         System.out.println("으기기기기깃");
         int a = 10;
         int b = 30;
+        int c = 40;
     }
 }
